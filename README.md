@@ -1,2 +1,2 @@
 # RoombaGUI
-This is a java GUI to connect with a roomba robot powered by a TM4C123G LaunchPad evaluation kit running C-code. To run, place all images in same folder as "src".  This code is only half of the code necessary to run. I do not have footage of the demonstration but by September 2023 I should have a youtube video available showing computer view and robot view. If you have questions reach out to timothyAKuehn@gmail.com.
+This is a java GUI to connect with a roomba robot powered by a TM4C123G LaunchPad evaluation kit running C-code. To run, place all images in same folder as "src".  This code is only half of the code necessary to run. If you have questions reach out to timothyAKuehn@gmail.com.
